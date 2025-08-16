@@ -6,20 +6,19 @@ Aqui você encontra meus projetos organizados por área: **Python** e **Power BI
 ---
 
 ## 🐍 Projetos em Python
-- [Calculadora Python](https://github.com/mytorres/calculadora-python)  
+- [Calculadora Python](https://github.com/myhtorres/calculadora-python)  
   *Calculadora simples em Python com operações básicas.*
 
-- [Password Generator](https://github.com/mytorres/password-generator)  
+- [Password Generator](https://github.com/myhtorres/password-generator-myrelle)  
   *Gerador de senhas seguras com parâmetros configuráveis.*
 
----
-
 ## 📊 Projetos em Power BI
-- [Análise Comercial](https://github.com/mytorres/powerbi-analise-comercial)  
+- [Análise Comercial](https://github.com/myhtorres/powerbi-analise-comercial)  
   *Dashboard de performance comercial em Power BI com KPIs e ETL documentados.*
 
-- [Campanhas de Marketing 2025](https://github.com/mytorres/powerbi-analise-campanhas-marketing-2025)  
+- [Campanhas de Marketing 2025](https://github.com/myhtorres/powerbi-analise-campanhas-marketing-2025)  
   *Dashboard para análise de campanhas de marketing: funil, CTR, CPA, ROI e insights acionáveis.*
+
 
 ---
 
