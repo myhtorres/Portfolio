@@ -24,6 +24,6 @@ Aqui você encontra meus projetos organizados por área: **Python** e **Power BI
 ---
 
 ## 📌 Sobre mim
-- **Perfil profissional**: [mytorres](https://github.com/mytorres/mytorres)  
+- **Perfil profissional**: [myhtorres](https://github.com/myhtorres/myhtorres)  
 - **LinkedIn**: (https://www.linkedin.com/in/myrelle-carreira-dados/)
 - **Email**: myrelle.torres10@outlook.com 
