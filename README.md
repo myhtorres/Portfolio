@@ -1,7 +1,7 @@
 # 📂 Portfólio — Myrelle Torres
 
 Oi! Eu sou a **Myrelle**, formada em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Pós-Graduação em Análise de Dados**.  
-Aqui você encontra meus projetos organizados por área: **Python** e **Power BI**, sempre com foco em **resolução de problemas de negócio**, **qualidade de dados** e **comunicação clara por meio de dashboards e relatórios**.
+Aqui você encontra meus projetos organizados por área: **Python**, **SQL** e **Power BI**, sempre com foco em **resolução de problemas de negócio**, **qualidade de dados** e **comunicação clara por meio de dashboards e relatórios**.
 
 ---
 
