@@ -19,15 +19,9 @@ Aqui você encontra meus projetos organizados por área: **Python** e **Power BI
 - [Campanhas de Marketing 2025](https://github.com/myhtorres/powerbi-analise-campanhas-marketing-2025)  
   *Dashboard para análise de campanhas de marketing: funil, CTR, CPA, ROI e insights acionáveis.*
 
-## 🗄️ Projetos em SQL & Análise de Dados  
-
-- **[Análise de Traduções (2022–2025)](https://github.com/myhtorres/analise-traducoes)**  
-  Consolidação e padronização de planilhas de traduções realizadas ao longo de quatro anos, com tratamento em **Python** e carregamento em **PostgreSQL** para consultas **SQL**.  
-  - Tecnologias: Python (pandas), PostgreSQL, SQL  
-  - Padronização de planilhas (renomeação de colunas, unificação de formatos)  
-  - Criação de banco de dados no PostgreSQL  
-  - Importação de dados tratados  
-  - Consultas SQL para análises de produtividade (nº de traduções, laudas, tipos de documentos, idiomas)  
+## 🗄️ Projetos em SQL & Análise de Dados
+- [Análise de Traduções (2022–2025)](https://github.com/myhtorres/analise-traducoes)  
+  *Consolidação de planilhas de traduções (2022–2025) com tratamento em Python e carregamento em PostgreSQL para consultas SQL e análises de produtividade.*
 
 ---
 
