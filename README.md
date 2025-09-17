@@ -12,6 +12,10 @@ Aqui você encontra meus projetos organizados por área: **Python**, **SQL** e *
 - [Password Generator](https://github.com/myhtorres/password-generator-myrelle)  
   *Gerador de senhas seguras com parâmetros configuráveis.*
 
+- [Pedra, Papel e Tesoura](https://github.com/myhtorres/game_pedra_papel_tesoura)  
+  *Jogo para dois jogadores em Python demonstrando lógica condicional, validação de entradas e manipulação de strings.*
+
+
 ## 📊 Projetos em Power BI
 - [Análise Comercial](https://github.com/myhtorres/powerbi-analise-comercial)  
   *Dashboard de performance comercial em Power BI com KPIs e ETL documentados.*
