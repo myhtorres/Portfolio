@@ -15,6 +15,8 @@ Aqui você encontra meus projetos organizados por área: **Python**, **SQL** e *
 - [Pedra, Papel e Tesoura](https://github.com/myhtorres/game_pedra_papel_tesoura)  
   *Jogo para dois jogadores em Python demonstrando lógica condicional, validação de entradas e manipulação de strings.*
 
+- [Análise de Vendas em E-commerce](https://github.com/myhtorres/python-miniprojeto1-analise-de-vendas)  
+  *Projeto de análise exploratória de dados simulados de vendas, utilizando Python (Pandas, NumPy, Matplotlib e Seaborn) para gerar insights de negócio sobre estoque, marketing e sazonalidade.*
 
 ## 📊 Projetos em Power BI
 - [Análise Comercial](https://github.com/myhtorres/powerbi-analise-comercial)  
