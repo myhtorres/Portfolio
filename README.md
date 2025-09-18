@@ -1,7 +1,9 @@
-# 📂 Portfólio — Myrelle Torres
+<h1 align="center">📂 Portfólio — Myrelle Torres</h1>
 
-Oi! Eu sou a **Myrelle**, formada em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Pós-Graduação em Análise de Dados**.  
-Aqui você encontra meus projetos organizados por área: **Python**, **SQL** e **Power BI**, sempre com foco em **resolução de problemas de negócio**, **qualidade de dados** e **comunicação clara por meio de dashboards e relatórios**.
+<p align="justify">
+Oi! Eu sou a <b>Myrelle</b>, formada em <b>Análise e Desenvolvimento de Sistemas</b> e atualmente cursando <b>Pós-Graduação em Análise de Dados</b>.  
+Aqui você encontra meus projetos organizados por área: <b>Python</b>, <b>SQL</b> e <b>Power BI</b>, sempre com foco em <b>resolução de problemas de negócio</b>, <b>qualidade de dados</b> e <b>comunicação clara por meio de dashboards e relatórios</b>.
+</p>
 
 ---
 
