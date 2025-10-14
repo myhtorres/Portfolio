@@ -20,6 +20,9 @@ Aqui você encontra meus projetos organizados por área: <b>Python</b>, <b>SQL</
 - [Análise de Vendas em E-commerce](https://github.com/myhtorres/python-miniprojeto1-analise-de-vendas)  
   *Projeto de análise exploratória de dados simulados de vendas, utilizando Python (Pandas, NumPy, Matplotlib e Seaborn) para gerar insights de negócio sobre estoque, marketing e sazonalidade.*
 
+  - [Sistema Bancário Digital (POO)](https://github.com/myhtorres/python-miniprojeto2-sistema-bancario-digital--POO-)  
+  Projeto acadêmico em Python simulando um sistema bancário digital. Desenvolvido com foco em **Programação Orientada a Objetos (POO)**, utiliza classes, herança, polimorfismo e tratamento de exceções personalizadas para gerenciar clientes, contas e operações financeiras (depósitos, saques e extratos).
+
 ## 📊 Projetos em Power BI
 - [Análise Comercial](https://github.com/myhtorres/powerbi-analise-comercial)  
   *Dashboard de performance comercial em Power BI com KPIs e ETL documentados.*
