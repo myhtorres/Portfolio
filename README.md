@@ -26,6 +26,9 @@ Aqui você encontra meus projetos organizados por área: <b>Python</b>, <b>SQL</
 - [Análise Estatística de Dados com NumPy para Marketing](https://github.com/myhtorres/python-miniprojeto3-analise-estatistica-numpy-marketing)  
 *Mini-projeto aplicado à área de marketing, com foco em análise estatística de dados de e-commerce. Utiliza **Python (NumPy, Pandas, Matplotlib e Seaborn)** para identificar padrões de comportamento, segmentar clientes e otimizar estratégias de marketing digital e UX.*
 
+- [Limpeza, Engenharia de Atributos e Análise Exploratória com Pandas](https://github.com/myhtorres/python-miniprojeto4-limpeza-engenharia-de-atributos-analise-exploratoria-pandas)  
+*Mini-projeto voltado ao tratamento de dados transacionais de um e-commerce. Envolve **limpeza, pré-processamento, criação de atributos e análise exploratória** com Python e Pandas. Inclui gráficos e insights de negócio para otimização de estoque, campanhas de marketing e desempenho logístico.*
+
 
 ## 📊 Projetos em Power BI
 - [Análise Comercial](https://github.com/myhtorres/powerbi-analise-comercial)  
