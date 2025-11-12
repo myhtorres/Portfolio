@@ -29,6 +29,9 @@ Aqui você encontra meus projetos organizados por área: <b>Python</b>, <b>SQL</
 - [Limpeza, Engenharia de Atributos e Análise Exploratória com Pandas](https://github.com/myhtorres/python-miniprojeto4-limpeza-engenharia-de-atributos-analise-exploratoria-pandas)  
 *Mini-projeto voltado ao tratamento de dados transacionais de um e-commerce. Envolve **limpeza, pré-processamento, criação de atributos e análise exploratória** com Python e Pandas. Inclui gráficos e insights de negócio para otimização de estoque, campanhas de marketing e desempenho logístico.*
 
+- [Probabilidade, Distribuições e Modelagem Estatística de Churn com Regressão Logística](https://github.com/myhtorres/python-miniprojeto5-probabilidade-distribuicoes-modelagem-estatistica-churn-com-regress-o-logistica)  
+*Mini-projeto aplicado à análise de churn (cancelamento de clientes) em uma empresa fictícia de telecomunicações. Envolve **probabilidade, distribuições estatísticas, regressão linear e regressão logística** utilizando **Statsmodels** e **Pandas** para modelagem e interpretação dos fatores que influenciam a perda de clientes.*
+
 
 ## 📊 Projetos em Power BI
 - [Análise Comercial](https://github.com/myhtorres/powerbi-analise-comercial)  
