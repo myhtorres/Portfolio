@@ -23,7 +23,7 @@ Aqui você encontra meus projetos organizados por área: <b>Python</b>, <b>SQL</
 - [Sistema Bancário Digital (POO)](https://github.com/myhtorres/python-miniprojeto2-sistema-bancario-digital--POO-)  
   *Projeto acadêmico em Python simulando um sistema bancário digital. Desenvolvido com foco em **Programação Orientada a Objetos (POO)**, utiliza classes, herança, polimorfismo e tratamento de exceções personalizadas para gerenciar clientes, contas e operações financeiras (depósitos, saques e extratos).*
 
-  - [Análise Estatística de Dados com NumPy para Marketing](https://github.com/myhtorres/python-miniprojeto3-analise-estatistica-numpy-marketing)  
+- [Análise Estatística de Dados com NumPy para Marketing](https://github.com/myhtorres/python-miniprojeto3-analise-estatistica-numpy-marketing)  
 *Mini-projeto aplicado à área de marketing, com foco em análise estatística de dados de e-commerce. Utiliza **Python (NumPy, Pandas, Matplotlib e Seaborn)** para identificar padrões de comportamento, segmentar clientes e otimizar estratégias de marketing digital e UX.*
 
 
